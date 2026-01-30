@@ -47,7 +47,7 @@ In the project directory, run:
 
 ## Controls
 
-- **A** : move left  
+- **A** : move left
 - **D** : move right  
 
 ## How to Play
