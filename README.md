@@ -39,6 +39,12 @@ Before running, make sure you have:
 In the project directory, run:
 <i>python start.py</i>
 
+## Screenshots
+
+| Home page | Gameplay | Game Over |
+|---------|---------------|-----------|
+| <img src="Screenshots/homepage.png" width="250"> | <img src="Screenshots/ingame.png" width="250"> | <img src="Screenshots/gameover.png" width="250"> |
+
 ## Controls
 
 - **A** : move left  
@@ -65,5 +71,7 @@ This project is open source and free to use.
 [![Pygame](https://img.shields.io/badge/Library-Pygame-green)](https://www.pygame.org/)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-Open%20Source-orange)
+![Stars](https://img.shields.io/github/stars/NobodydeBunny/Rex-Move?style=social)
+![Forks](https://img.shields.io/github/forks/NobodydeBunny/Rex-Move?style=social)
 
 
