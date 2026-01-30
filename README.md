@@ -36,7 +36,7 @@ Before running, make sure you have:
 
 ## Running the Game
 
-In the project directory, run:
+In the project directory, open terminal and run:
 <i>python start.py</i>
 
 ## Screenshots
